@@ -237,16 +237,7 @@
     color: #FCAD5F !important; 
 }   
 @media (min-width:1111px)   {
-    .img2{
-        width: 820px !important;
-        height: 557px !important;
-    }
-    video{
-         
-        width: 800px !important;
-        height: 557px !important;
-    
-    }
+   
      /* index2 */
     .main-tabs{
         display: grid;
