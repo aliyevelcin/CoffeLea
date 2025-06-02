@@ -237,7 +237,16 @@
     color: #FCAD5F !important; 
 }   
 @media (min-width:1111px) and (max-width:1500px){
+    .img2{
+        width: 775px !important;
+        height: 557px !important;
+    }
+    video{
+         
+        width: 750px !important;
+        height: 557px !important;
     
+    }
      /* index2 */
     .main-tabs{
         display: grid;
