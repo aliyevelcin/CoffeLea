@@ -236,7 +236,7 @@
     transition: 0.3s;
     color: #FCAD5F !important; 
 }   
-@media (min-width:1111px) and (max-width:1500px){
+@media (min-width:1111px) and (max-width:1800px){
     .img2{
         width: 775px !important;
         height: 557px !important;
