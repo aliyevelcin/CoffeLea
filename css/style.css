@@ -126,7 +126,7 @@ textPath {
 .scan-line { 
   position: absolute;
   top: -1px;
-  left: 82px;
+   
   width: 150px;
   height: 2px;
   background: rgb(255, 242, 0);
