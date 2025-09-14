@@ -108,6 +108,20 @@
     .container-pad{
         padding: 15px !important;
     }
+    .logo{
+        width: 30px !important;
+        height: 30px !important;
+    }
+    .bottom-text{
+        font-size: 12px !important;
+    }
+    .main-5-text1{
+        margin-left: 0px !important;
+        text-align: center;
+    }
+    .main-5-h1 h1 {
+        margin-left: 0px !important;
+    }
 
     
 }

@@ -17,10 +17,7 @@
     border-radius:90px ;
     color: white !important;
     transition: 0.5s ease;
-    -webkit-border-radius:90px ;
-    -moz-border-radius:90px ;
-    -ms-border-radius:90px ;
-    -o-border-radius:90px ;
+    
 }
 .navbar.fixed a{
   color: black !important;
@@ -37,12 +34,12 @@
   transition: 1s; 
 }
 .nav-link{
-    font-size: 10px !important;
+    font-size: 13px !important;
     color: rgb(255, 255, 255) !important;
     cursor: pointer ;
 }
 .form-a{
-    font-size: 8px !important;
+    font-size: 10px !important;
     color: white !important;
     cursor: pointer ;
     text-decoration: none !important;
@@ -237,7 +234,7 @@ textPath {
   font-family: 'TildaSans', 'Swanky and Moo Moo', Arial, sans-serif;
 
     color: #fdae60 !important;
-    font-size: 12px;
+    font-size: 14px;
     
     line-height: 1.55;
     font-weight: 300;
@@ -355,7 +352,7 @@ video{
 }
 .footer-a a{
   color: white ! important;
-  font-size: 8px;
+  font-size: 10px;
   text-decoration: none;
 }
 .footer-a a:hover{
